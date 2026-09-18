@@ -235,6 +235,7 @@
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0075-sort-colors](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0075-sort-colors/) | Medium |
 | [0141-linked-list-cycle](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0141-linked-list-cycle/) | Easy |
@@ -262,6 +263,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0020-valid-parentheses](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0022-generate-parentheses/) | Medium |
 | [0242-valid-anagram](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0242-valid-anagram/) | Easy |
@@ -282,6 +284,7 @@
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0022-generate-parentheses](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0022-generate-parentheses/) | Medium |
 | [0062-unique-paths](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0062-unique-paths/) | Medium |
 | [0064-minimum-path-sum](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0064-minimum-path-sum/) | Medium |
@@ -471,4 +474,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0023-merge-k-sorted-lists/) | Hard |
+## Manacher
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0005-longest-palindromic-substring/) | Medium |
 <!---LeetCode Topics End-->
