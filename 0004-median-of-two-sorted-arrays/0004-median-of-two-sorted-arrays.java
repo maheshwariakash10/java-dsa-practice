@@ -1,46 +1,40 @@
 class Solution {
     public double findMedianSortedArrays(int[] nums1, int[] nums2) {
-        int n= nums1.length;
-        int n2= nums2.length;
+        int m= nums1.length;
+        int n= nums2.length;
 
-        int arr[]= new int[n+n2];
-        int l= arr.length;
+        int ans[]= new int[m+n];
 
-        int i=0; // for  num1
-        int j= 0; // for num2;
+        int idx=0;
+        int i=0; int j=0;
 
-        for(int k=0 ; k< l ; k++ ){
-            
-            if(i< n && j< n2 ){
-                int mn= Math.min(nums1[i], nums2[j]);
-                arr[k]= mn;
-                if(mn== nums1[i]) i++;
-                else j++;
-
-            }
-
-            else if( i< n){
-                arr[k] = nums1[i];
+        while(i< m && j< n){
+            if(nums1[i]< nums2[j]){
+                ans[idx]= nums1[i];
                 i++;
             }
             else{
-                arr[k] = nums2[j];
+                ans[idx]= nums2[j];
                 j++;
+            }
+            idx++;
+        }
+
+        if(i!=m){
+            for(int x=i; x< m ;x++){
+                ans[idx]= nums1[x];
+                idx++;
+            }
+        }
+        else if(j!= n){
+            for(int x=j; x< n ;x++){
+                ans[idx]= nums2[x];
+                idx++;
             }
         }
 
+        if(ans.length%2!= 0) return (double)ans[ans.length/2];
 
-
-
-
-        
-
-        if(l%2==0){
-            return (double)(arr[l/2] + arr[l/2 - 1])/2;
-        }
-        else{
-            return arr[l/2];
-        }
-
+        return (double)(ans[(m+n)/2] + ans[(m+n)/2 - 1])/2;
     }
 }
