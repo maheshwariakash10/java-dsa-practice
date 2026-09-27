@@ -9,32 +9,22 @@
  * }
  */
 class Solution {
-   public int count(ListNode head ){
-    int c= 0;
-    while(head!=null){
-        c++;
-       head= head.next;
-    }
-    return c;
-   } 
     public boolean isPalindrome(ListNode head) {
-        int n= count(head);
-        int arr[]= new int [n];
         ListNode temp= head;
-        int i=0; 
-        while(temp!=null){
-            arr[i]= temp.val;
+        
+        Stack<Integer> st= new Stack<>();
+
+        while(temp!= null){
+            st.push(temp.val);
             temp= temp.next;
-            i++;
         }
 
-        int low= 0;
-        int high= n-1;
+        temp= head;
+        while(!st.isEmpty()){
+            if(st.peek()!= temp.val) return false;
 
-        while(low<high){
-            if(arr[low]!= arr[high]) return false;
-            low++;
-            high--;
+            temp= temp.next;
+            st.pop();
         }
 
         return true;
