@@ -12,6 +12,7 @@
 | [0036-valid-sudoku](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0036-valid-sudoku/) | Medium |
 | [0041-first-missing-positive](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0041-first-missing-positive/) | Hard |
 | [0064-minimum-path-sum](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0064-minimum-path-sum/) | Medium |
+| [0074-search-a-2d-matrix](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0075-sort-colors](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0075-sort-colors/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
@@ -312,6 +313,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0035-search-insert-position/) | Easy |
+| [0074-search-a-2d-matrix](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0162-find-peak-element](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0162-find-peak-element/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0268-missing-number](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0268-missing-number/) | Easy |
@@ -436,6 +438,7 @@
 | ------- | ------- |
 | [0036-valid-sudoku](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0036-valid-sudoku/) | Medium |
 | [0064-minimum-path-sum](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0064-minimum-path-sum/) | Medium |
+| [0074-search-a-2d-matrix](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0832-flipping-an-image](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0832-flipping-an-image/) | Easy |
 | [0867-transpose-matrix](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0867-transpose-matrix/) | Easy |
 | [0999-available-captures-for-rook](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0999-available-captures-for-rook/) | Easy |
