@@ -83,6 +83,7 @@
 | [3866-first-unique-even-element](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/3866-first-unique-even-element/) | Easy |
 | [3925-concatenate-array-with-reverse](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/3925-concatenate-array-with-reverse/) | Easy |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/3940-limit-occurrences-in-sorted-array/) | Easy |
+| [3996-even-number-of-knight-moves](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/3996-even-number-of-knight-moves/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -204,6 +205,7 @@
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 | [3765-complete-prime-number](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/3765-complete-prime-number/) | Medium |
 | [3783-mirror-distance-of-an-integer](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
+| [3996-even-number-of-knight-moves](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/3996-even-number-of-knight-moves/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
