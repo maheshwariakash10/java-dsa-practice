@@ -50,6 +50,7 @@
 | [0930-binary-subarrays-with-sum](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0976-largest-perimeter-triangle](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [0980-unique-paths-iii](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0980-unique-paths-iii/) | Hard |
 | [0999-available-captures-for-rook](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0999-available-captures-for-rook/) | Easy |
 | [1019-next-greater-node-in-linked-list](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/1331-rank-transform-of-an-array/) | Easy |
@@ -218,6 +219,7 @@
 | [0342-power-of-four](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0342-power-of-four/) | Easy |
 | [0389-find-the-difference](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0389-find-the-difference/) | Easy |
 | [0832-flipping-an-image](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0832-flipping-an-image/) | Easy |
+| [0980-unique-paths-iii](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0980-unique-paths-iii/) | Hard |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 | [2425-bitwise-xor-of-all-pairings](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/2425-bitwise-xor-of-all-pairings/) | Medium |
@@ -440,6 +442,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0022-generate-parentheses/) | Medium |
+| [0980-unique-paths-iii](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0980-unique-paths-iii/) | Hard |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -449,6 +452,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0832-flipping-an-image](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0832-flipping-an-image/) | Easy |
 | [0867-transpose-matrix](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0867-transpose-matrix/) | Easy |
+| [0980-unique-paths-iii](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0980-unique-paths-iii/) | Hard |
 | [0999-available-captures-for-rook](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0999-available-captures-for-rook/) | Easy |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/1572-matrix-diagonal-sum/) | Easy |
@@ -494,4 +498,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0005-longest-palindromic-substring/) | Medium |
+## Hamiltonian Path
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0980-unique-paths-iii](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0980-unique-paths-iii/) | Hard |
 <!---LeetCode Topics End-->
