@@ -414,6 +414,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0020-valid-parentheses/) | Easy |
+| [0232-implement-queue-using-stacks](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0234-palindrome-linked-list/) | Easy |
 | [1019-next-greater-node-in-linked-list](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
@@ -517,5 +518,10 @@
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [1603-design-parking-system](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/1603-design-parking-system/) | Easy |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0232-implement-queue-using-stacks/) | Easy |
 <!---LeetCode Topics End-->
