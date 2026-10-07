@@ -508,4 +508,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0020-valid-parentheses/) | Easy |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1791-find-center-of-star-graph](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/1791-find-center-of-star-graph/) | Easy |
 <!---LeetCode Topics End-->
