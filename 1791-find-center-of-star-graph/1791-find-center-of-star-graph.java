@@ -1,17 +1,9 @@
 class Solution {
     public int findCenter(int[][] edges) {
 
-        HashSet<Integer> set= new HashSet<>();
-        int row= edges.length;
-        int col=2;
-        for(int i=0; i< row; i++){
-            for(int j=0;j< 2; j++){
-                if(set.contains(edges[i][j])) return edges[i][j];
-                else{
-                    set.add(edges[i][j]);
-                }
-            }
-        }
+
+        if(edges[0][0]== edges[1][0]|| edges[0][0]==edges[1][1] ) return edges[0][0];
+        else if(edges[0][1]== edges[1][0]|| edges[0][1]==edges[1][1] ) return edges[0][1];
         return -1;
         
     }
