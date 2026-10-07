@@ -159,6 +159,7 @@
 | [0229-majority-element-ii](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0229-majority-element-ii/) | Medium |
 | [0819-most-common-word](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0819-most-common-word/) | Easy |
 | [1394-find-lucky-integer-in-an-array](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
+| [1603-design-parking-system](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/1603-design-parking-system/) | Easy |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/3746-minimum-string-length-after-balanced-removals/) | Medium |
@@ -232,6 +233,7 @@
 | [0832-flipping-an-image](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0832-flipping-an-image/) | Easy |
 | [0867-transpose-matrix](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0867-transpose-matrix/) | Easy |
 | [0999-available-captures-for-rook](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0999-available-captures-for-rook/) | Easy |
+| [1603-design-parking-system](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/1603-design-parking-system/) | Easy |
 | [1929-concatenation-of-array](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/1929-concatenation-of-array/) | Easy |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/2696-minimum-string-length-after-removing-substrings/) | Easy |
@@ -512,4 +514,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1791-find-center-of-star-graph](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/1791-find-center-of-star-graph/) | Easy |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1603-design-parking-system](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/1603-design-parking-system/) | Easy |
 <!---LeetCode Topics End-->
