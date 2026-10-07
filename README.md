@@ -167,6 +167,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0007-reverse-integer](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0009-palindrome-number/) | Easy |
 | [0050-powx-n](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0050-powx-n/) | Medium |
 | [0062-unique-paths](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0062-unique-paths/) | Medium |
