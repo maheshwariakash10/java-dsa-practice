@@ -1,19 +1,18 @@
 class Solution {
     public List<Integer> majorityElement(int[] nums) {
-        int n=nums.length;
-        HashMap<Integer, Integer> map= new HashMap<>();
-
-        for(int ele:nums){
-            map.put(ele,map.getOrDefault(ele,0)+1);
+        HashMap<Integer, Integer> mp= new HashMap<>();
+        int n= nums.length;
+        
+        for(int i=0 ;i< nums.length; i++){
+            int a= nums[i];
+            mp.put(a, mp.getOrDefault(a,0)+1);
         }
+
         ArrayList<Integer> li= new ArrayList<>();
 
-        for(int key:map.keySet()){
-            if(map.get(key)>n/3){
-                li.add(key);
-            }
+        for(int a : mp.keySet()){
+            if(mp.get(a)> n/3 )  li.add(a);
         }
-
         return li;
     }
 }
