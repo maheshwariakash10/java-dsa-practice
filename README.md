@@ -531,4 +531,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0232-implement-queue-using-stacks/) | Easy |
+## Boyer–Moore Majority Vote Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0229-majority-element-ii](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0229-majority-element-ii/) | Medium |
 <!---LeetCode Topics End-->
