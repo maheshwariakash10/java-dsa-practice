@@ -1,13 +1,17 @@
 class Solution {
     public int[] twoSum(int[] nums, int target) {
-        // i stay  rahate he or j age badta he 
-        int n= nums.length;
-        
-        for(int i=0;i<n;i++){
-            for(int j=i+1;j<n;j++){
-                if(nums[i]+nums[j]==target) return new int[]{i, j};
+        HashMap<Integer , Integer> map = new HashMap<>();
+
+        for(int i=0 ; i< nums.length; i++){
+            int a= nums[i];
+
+            if(map.containsKey(target- a)){
+                return new int[]{map.get(target- a), i};
+            }
+            else{
+                map.put(a, i);
             }
         }
-        return new int[]{-1};
+        return new int[]{-1,-1};
     }
 }
