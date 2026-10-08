@@ -288,6 +288,7 @@
 | [0647-palindromic-substrings](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0647-palindromic-substrings/) | Medium |
 | [0819-most-common-word](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0819-most-common-word/) | Easy |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
+| [1021-remove-outermost-parentheses](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/1768-merge-strings-alternately/) | Easy |
@@ -423,6 +424,7 @@
 | [0234-palindrome-linked-list](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1019-next-greater-node-in-linked-list](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
+| [1021-remove-outermost-parentheses](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [2000-reverse-prefix-of-word](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/2000-reverse-prefix-of-word/) | Easy |
@@ -518,6 +520,7 @@
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0020-valid-parentheses/) | Easy |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
+| [1021-remove-outermost-parentheses](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/1021-remove-outermost-parentheses/) | Easy |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
