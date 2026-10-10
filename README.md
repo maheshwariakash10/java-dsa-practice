@@ -35,6 +35,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0485-max-consecutive-ones](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0485-max-consecutive-ones/) | Easy |
+| [0496-next-greater-element-i](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0496-next-greater-element-i/) | Easy |
 | [0575-distribute-candies](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0575-distribute-candies/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0704-binary-search](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0704-binary-search/) | Easy |
@@ -102,6 +103,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0389-find-the-difference](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0389-find-the-difference/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
+| [0496-next-greater-element-i](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0496-next-greater-element-i/) | Easy |
 | [0575-distribute-candies](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0575-distribute-candies/) | Easy |
 | [0819-most-common-word](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0819-most-common-word/) | Easy |
 | [0904-fruit-into-baskets](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0904-fruit-into-baskets/) | Medium |
@@ -424,6 +426,7 @@
 | [0020-valid-parentheses](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0020-valid-parentheses/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0496-next-greater-element-i](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0496-next-greater-element-i/) | Easy |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1019-next-greater-node-in-linked-list](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/1021-remove-outermost-parentheses/) | Easy |
@@ -497,6 +500,7 @@
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0496-next-greater-element-i](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0496-next-greater-element-i/) | Easy |
 | [1019-next-greater-node-in-linked-list](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 ## Floyd's Cycle Finding Algorithm
 | Problem Name | Difficulty |
