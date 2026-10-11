@@ -11,6 +11,7 @@
 | [0035-search-insert-position](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0035-search-insert-position/) | Easy |
 | [0036-valid-sudoku](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0036-valid-sudoku/) | Medium |
 | [0041-first-missing-positive](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0041-first-missing-positive/) | Hard |
+| [0042-trapping-rain-water](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0042-trapping-rain-water/) | Hard |
 | [0054-spiral-matrix](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0054-spiral-matrix/) | Medium |
 | [0064-minimum-path-sum](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0064-minimum-path-sum/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0074-search-a-2d-matrix/) | Medium |
@@ -254,6 +255,7 @@
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
+| [0042-trapping-rain-water](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0042-trapping-rain-water/) | Hard |
 | [0075-sort-colors](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0075-sort-colors/) | Medium |
 | [0125-valid-palindrome](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0125-valid-palindrome/) | Easy |
 | [0141-linked-list-cycle](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0141-linked-list-cycle/) | Easy |
@@ -310,6 +312,7 @@
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0022-generate-parentheses](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0022-generate-parentheses/) | Medium |
+| [0042-trapping-rain-water](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0042-trapping-rain-water/) | Hard |
 | [0062-unique-paths](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0062-unique-paths/) | Medium |
 | [0064-minimum-path-sum](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0064-minimum-path-sum/) | Medium |
 | [0070-climbing-stairs](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0070-climbing-stairs/) | Easy |
@@ -424,6 +427,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0020-valid-parentheses/) | Easy |
+| [0042-trapping-rain-water](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0042-trapping-rain-water/) | Hard |
 | [0232-implement-queue-using-stacks](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0496-next-greater-element-i](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0496-next-greater-element-i/) | Easy |
@@ -500,6 +504,7 @@
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0042-trapping-rain-water/) | Hard |
 | [0496-next-greater-element-i](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0496-next-greater-element-i/) | Easy |
 | [1019-next-greater-node-in-linked-list](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 ## Floyd's Cycle Finding Algorithm
