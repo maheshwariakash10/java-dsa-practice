@@ -75,6 +75,7 @@
 | [2367-number-of-arithmetic-triplets](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
 | [2425-bitwise-xor-of-all-pairings](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/2425-bitwise-xor-of-all-pairings/) | Medium |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/2455-average-value-of-even-numbers-that-are-divisible-by-three/) | Easy |
+| [2596-check-knight-tour-configuration](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/2596-check-knight-tour-configuration/) | Medium |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [3024-type-of-triangle](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/3024-type-of-triangle/) | Easy |
 | [3028-ant-on-the-boundary](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/3028-ant-on-the-boundary/) | Easy |
@@ -245,6 +246,7 @@
 | [1603-design-parking-system](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/1603-design-parking-system/) | Easy |
 | [1929-concatenation-of-array](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/1929-concatenation-of-array/) | Easy |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
+| [2596-check-knight-tour-configuration](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/2596-check-knight-tour-configuration/) | Medium |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/2696-minimum-string-length-after-removing-substrings/) | Easy |
 | [3028-ant-on-the-boundary](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/3028-ant-on-the-boundary/) | Easy |
 | [3174-clear-digits](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/3174-clear-digits/) | Easy |
@@ -484,6 +486,7 @@
 | [0999-available-captures-for-rook](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0999-available-captures-for-rook/) | Easy |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/1572-matrix-diagonal-sum/) | Easy |
+| [2596-check-knight-tour-configuration](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/2596-check-knight-tour-configuration/) | Medium |
 | [3033-modify-the-matrix](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/3033-modify-the-matrix/) | Easy |
 ## Combinatorics
 | Problem Name | Difficulty |
@@ -555,4 +558,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0229-majority-element-ii](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0229-majority-element-ii/) | Medium |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2596-check-knight-tour-configuration](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/2596-check-knight-tour-configuration/) | Medium |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2596-check-knight-tour-configuration](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/2596-check-knight-tour-configuration/) | Medium |
 <!---LeetCode Topics End-->
