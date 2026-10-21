@@ -55,6 +55,7 @@
 | [0976-largest-perimeter-triangle](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [0980-unique-paths-iii](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0980-unique-paths-iii/) | Hard |
+| [0997-find-the-town-judge](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0997-find-the-town-judge/) | Easy |
 | [0999-available-captures-for-rook](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0999-available-captures-for-rook/) | Easy |
 | [1019-next-greater-node-in-linked-list](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/1331-rank-transform-of-an-array/) | Easy |
@@ -111,6 +112,7 @@
 | [0819-most-common-word](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0819-most-common-word/) | Easy |
 | [0904-fruit-into-baskets](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0930-binary-subarrays-with-sum/) | Medium |
+| [0997-find-the-town-judge](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0997-find-the-town-judge/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1394-find-lucky-integer-in-an-array](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
@@ -544,6 +546,7 @@
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0997-find-the-town-judge](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0997-find-the-town-judge/) | Easy |
 | [1791-find-center-of-star-graph](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/1791-find-center-of-star-graph/) | Easy |
 ## Design
 | Problem Name | Difficulty |
