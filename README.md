@@ -547,6 +547,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0997-find-the-town-judge](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0997-find-the-town-judge/) | Easy |
+| [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/1557-minimum-number-of-vertices-to-reach-all-nodes/) | Medium |
 | [1791-find-center-of-star-graph](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/1791-find-center-of-star-graph/) | Easy |
 ## Design
 | Problem Name | Difficulty |
@@ -569,4 +570,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2596-check-knight-tour-configuration](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/2596-check-knight-tour-configuration/) | Medium |
+## Directed Acyclic Graph
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/1557-minimum-number-of-vertices-to-reach-all-nodes/) | Medium |
 <!---LeetCode Topics End-->
