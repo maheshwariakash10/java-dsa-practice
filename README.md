@@ -475,6 +475,7 @@
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0022-generate-parentheses/) | Medium |
 | [0051-n-queens](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0051-n-queens/) | Hard |
+| [0052-n-queens-ii](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0052-n-queens-ii/) | Hard |
 | [0980-unique-paths-iii](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0980-unique-paths-iii/) | Hard |
 ## Matrix
 | Problem Name | Difficulty |
@@ -580,4 +581,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0051-n-queens](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0051-n-queens/) | Hard |
+| [0052-n-queens-ii](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0052-n-queens-ii/) | Hard |
 <!---LeetCode Topics End-->
