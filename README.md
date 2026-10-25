@@ -13,6 +13,7 @@
 | [0036-valid-sudoku](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0036-valid-sudoku/) | Medium |
 | [0041-first-missing-positive](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0041-first-missing-positive/) | Hard |
 | [0042-trapping-rain-water](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0042-trapping-rain-water/) | Hard |
+| [0051-n-queens](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0051-n-queens/) | Hard |
 | [0054-spiral-matrix](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0054-spiral-matrix/) | Medium |
 | [0064-minimum-path-sum](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0064-minimum-path-sum/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0074-search-a-2d-matrix/) | Medium |
@@ -473,6 +474,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0022-generate-parentheses/) | Medium |
+| [0051-n-queens](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0051-n-queens/) | Hard |
 | [0980-unique-paths-iii](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0980-unique-paths-iii/) | Hard |
 ## Matrix
 | Problem Name | Difficulty |
@@ -574,4 +576,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/1557-minimum-number-of-vertices-to-reach-all-nodes/) | Medium |
+## Algorithm X
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0051-n-queens](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0051-n-queens/) | Hard |
 <!---LeetCode Topics End-->
