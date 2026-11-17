@@ -233,6 +233,7 @@
 | [0287-find-the-duplicate-number](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0342-power-of-four](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0342-power-of-four/) | Easy |
 | [0389-find-the-difference](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0389-find-the-difference/) | Easy |
+| [0693-binary-number-with-alternating-bits](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0693-binary-number-with-alternating-bits/) | Easy |
 | [0832-flipping-an-image](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0832-flipping-an-image/) | Easy |
 | [0980-unique-paths-iii](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0980-unique-paths-iii/) | Hard |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
