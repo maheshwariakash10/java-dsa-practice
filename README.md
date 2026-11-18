@@ -80,6 +80,7 @@
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/2455-average-value-of-even-numbers-that-are-divisible-by-three/) | Easy |
 | [2596-check-knight-tour-configuration](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/2596-check-knight-tour-configuration/) | Medium |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
+| [3005-count-elements-with-maximum-frequency](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
 | [3024-type-of-triangle](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/3024-type-of-triangle/) | Easy |
 | [3028-ant-on-the-boundary](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/3028-ant-on-the-boundary/) | Easy |
 | [3033-modify-the-matrix](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/3033-modify-the-matrix/) | Easy |
@@ -124,6 +125,7 @@
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
 | [2367-number-of-arithmetic-triplets](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
 | [2716-minimize-string-length](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/2716-minimize-string-length/) | Easy |
+| [3005-count-elements-with-maximum-frequency](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
 | [3731-find-missing-elements](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/3731-find-missing-elements/) | Easy |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/3760-maximum-substrings-with-distinct-start/) | Medium |
 | [3842-toggle-light-bulbs](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/3842-toggle-light-bulbs/) | Easy |
@@ -175,6 +177,7 @@
 | [1704-determine-if-string-halves-are-alike](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/1704-determine-if-string-halves-are-alike/) | Easy |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/2351-first-letter-to-appear-twice/) | Easy |
+| [3005-count-elements-with-maximum-frequency](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/3746-minimum-string-length-after-balanced-removals/) | Medium |
 | [3866-first-unique-even-element](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/3866-first-unique-even-element/) | Easy |
 ## Math
