@@ -576,10 +576,12 @@
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0112-path-sum](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0112-path-sum/) | Easy |
 | [2596-check-knight-tour-configuration](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/2596-check-knight-tour-configuration/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0112-path-sum](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0112-path-sum/) | Easy |
 | [2596-check-knight-tour-configuration](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/2596-check-knight-tour-configuration/) | Medium |
 ## Directed Acyclic Graph
 | Problem Name | Difficulty |
@@ -590,4 +592,12 @@
 | ------- | ------- |
 | [0051-n-queens](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0051-n-queens/) | Hard |
 | [0052-n-queens-ii](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0052-n-queens-ii/) | Hard |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0112-path-sum](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0112-path-sum/) | Easy |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0112-path-sum](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0112-path-sum/) | Easy |
 <!---LeetCode Topics End-->
