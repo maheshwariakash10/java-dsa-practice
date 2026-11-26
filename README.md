@@ -599,9 +599,11 @@
 | ------- | ------- |
 | [0112-path-sum](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0112-path-sum/) | Easy |
 | [0226-invert-binary-tree](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0226-invert-binary-tree/) | Easy |
+| [2236-root-equals-sum-of-children](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/2236-root-equals-sum-of-children/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0112-path-sum](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0112-path-sum/) | Easy |
 | [0226-invert-binary-tree](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0226-invert-binary-tree/) | Easy |
+| [2236-root-equals-sum-of-children](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/2236-root-equals-sum-of-children/) | Easy |
 <!---LeetCode Topics End-->
