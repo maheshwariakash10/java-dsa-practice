@@ -447,6 +447,7 @@
 | [0020-valid-parentheses](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0020-valid-parentheses/) | Easy |
 | [0042-trapping-rain-water](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0042-trapping-rain-water/) | Hard |
 | [0094-binary-tree-inorder-traversal](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0144-binary-tree-preorder-traversal](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0496-next-greater-element-i](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0496-next-greater-element-i/) | Easy |
@@ -579,6 +580,7 @@
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0112-path-sum](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0112-path-sum/) | Easy |
+| [0144-binary-tree-preorder-traversal](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0226-invert-binary-tree](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0226-invert-binary-tree/) | Easy |
 | [2596-check-knight-tour-configuration](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/2596-check-knight-tour-configuration/) | Medium |
 ## Breadth-First Search
@@ -601,6 +603,7 @@
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0112-path-sum](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0112-path-sum/) | Easy |
+| [0144-binary-tree-preorder-traversal](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0226-invert-binary-tree](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0226-invert-binary-tree/) | Easy |
 | [2236-root-equals-sum-of-children](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/2236-root-equals-sum-of-children/) | Easy |
 ## Binary Tree
@@ -608,6 +611,7 @@
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0112-path-sum](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0112-path-sum/) | Easy |
+| [0144-binary-tree-preorder-traversal](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0226-invert-binary-tree](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/0226-invert-binary-tree/) | Easy |
 | [2236-root-equals-sum-of-children](https://github.com/maheshwariakash10-commits/java-dsa-practice/tree/main/2236-root-equals-sum-of-children/) | Easy |
 <!---LeetCode Topics End-->
